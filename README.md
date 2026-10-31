@@ -1,3 +1,5 @@
+<!-- HERO BANNER -->
+
 <div align="center">
   <img
     src="./assets/banner.png"
@@ -5,3 +7,30 @@
     alt="Manoj Thapa - Frontend Developer"
   />
 </div>
+
+<br/>
+
+<!-- INTRODUCTION -->
+
+<h2>Hi there 👋</h2>
+
+<p>
+I'm <b>Manoj Thapa</b>, a Frontend Developer
+and UI/UX Designer passionate about building
+modern, high-performance web applications.
+</p>
+
+---
+
+## 👨‍💻 About Me
+
+- 📍 Hyderabad, India
+- 💻 React & Next.js Developer
+- 🎨 UI/UX Design Enthusiast
+- 🚀 Building modern web experiences
+
+---
+
+## 🛠️ Tech Stack
+
+<!-- Your technology badges here -->
