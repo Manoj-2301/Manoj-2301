@@ -34,3 +34,4 @@ modern, high-performance web applications.
 ## 🛠️ Tech Stack
 
 <!-- Your technology badges here -->
+<img src="https://img.shields.io/badge/React-161B22?style=for-the-badge&logo=react&logoColor=61DAFB" />
