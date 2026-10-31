@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <div align="center">
   <img
-    src="./assets/github-banner.png"
+    src="./assets/banner.png"
     width="100%"
     alt="Manoj Thapa - Frontend Developer"
   />
