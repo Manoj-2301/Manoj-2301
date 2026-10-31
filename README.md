@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<div align="center">
+  <img
+    src="./assets/github-banner.png"
+    width="100%"
+    alt="Manoj Thapa - Frontend Developer"
+  />
+</div>
